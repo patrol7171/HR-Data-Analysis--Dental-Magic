@@ -25,7 +25,7 @@
 1. There were very few managers that gave more low performance scores when compared to all members of management, but further research will be needed to verify if these scores are really justifiable. 
 
 <br>
-### Modules and Data Source Setup
+### *Modules and Data Source Setup*
 
 
 ```python
@@ -515,7 +515,7 @@ table3.plot(kind="barh", figsize=(10,5), stacked=False, title='Gender Distributi
 
 <br>
 <br>
-### Factors Contributing to Employee Turnover
+### *Factors Contributing to Employee Turnover*
 
 
 ```python
@@ -798,7 +798,7 @@ table6.plot(kind="barh", figsize=(10,5), stacked=True, title='Reason For Term By
 
 <br>
 <br>
-### Determinants for Verifying Recruiting Sources Ensure Diversity
+### *Determinants for Verifying Recruiting Sources Ensure Diversity*
 
 
 ```python
@@ -1268,7 +1268,7 @@ plt.tight_layout()
 
 <br>
 <br>
-### Determinants For Correlations Between Employee Performance and Immediate Supervisor
+### *Determinants For Correlations Between Employee Performance and Immediate Supervisor*
 
 
 ```python
