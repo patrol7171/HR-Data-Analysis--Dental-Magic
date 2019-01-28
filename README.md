@@ -5,13 +5,13 @@
 
 ## HR Employee Data Analysis Project - Part I
 
-### *Research Questions:*
+### Research Questions:
 -  **What is the overall diversity profile of the current organization?**
 -  **What factors appear to contribute to employee turnover?**
 -  **What are our best recruiting sources if we want to ensure a diverse organization?**
 -  **Is there any relationship between who a person works for and their performance score?**
 
-### *Observed Trends:* 
+### Observed Trends: 
 
 1. Our analysis suggests that there appears to be somewhat of an equal distribution of men and women amongst the staff (more women tip the scales then men, but by a small margin with the exception of the Production department). However, it's clear more racial diversity is needed as our analysis indicates most of the staff is caucasian. The most abundant age range is between 31 and 39.  The marital status  of most employees are either single or married.
 
@@ -24,8 +24,9 @@
 
 1. There were very few managers that gave more low performance scores when compared to all members of management, but further research will be needed to verify if these scores are really justifiable. 
 
+***
 
-### *Modules and Data Source Setup*
+### *A. Modules and Data Source Setup*
 
 
 ```python
@@ -175,7 +176,7 @@ df_recruit_costs.info()
 
 
 	
-### Current Employee Demographics and Diversity Profile
+### *B. Current Employee Demographics and Diversity Profile*
 
 
 ```python
@@ -514,7 +515,7 @@ table3.plot(kind="barh", figsize=(10,5), stacked=False, title='Gender Distributi
 
 
 
-### *Factors Contributing to Employee Turnover*
+### *C. Factors Contributing to Employee Turnover*
 
 
 ```python
@@ -796,7 +797,7 @@ table6.plot(kind="barh", figsize=(10,5), stacked=True, title='Reason For Term By
 
 
 
-### *Determinants for Verifying Recruiting Sources Ensure Diversity*
+### *D. Determinants for Verifying Recruiting Sources Ensure Diversity*
 
 
 ```python
@@ -1265,7 +1266,7 @@ plt.tight_layout()
 
 
 
-### *Determinants For Correlations Between Employee Performance and Immediate Supervisor*
+### *E. Determinants For Correlations Between Employee Performance and Immediate Supervisor*
 
 
 ```python
