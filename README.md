@@ -173,8 +173,8 @@ df_recruit_costs.info()
     memory usage: 2.5+ KB
     
 
-<br>
-<br>
+
+	
 ### Current Employee Demographics and Diversity Profile
 
 
@@ -513,8 +513,7 @@ table3.plot(kind="barh", figsize=(10,5), stacked=False, title='Gender Distributi
 ![png](Images/output_27_1.png)
 
 
-<br>
-<br>
+
 ### *Factors Contributing to Employee Turnover*
 
 
@@ -796,8 +795,7 @@ table6.plot(kind="barh", figsize=(10,5), stacked=True, title='Reason For Term By
 ![png](Images/output_34_1.png)
 
 
-<br>
-<br>
+
 ### *Determinants for Verifying Recruiting Sources Ensure Diversity*
 
 
@@ -1266,8 +1264,7 @@ plt.tight_layout()
 ![png](Images/output_40_0.png)
 
 
-<br>
-<br>
+
 ### *Determinants For Correlations Between Employee Performance and Immediate Supervisor*
 
 
