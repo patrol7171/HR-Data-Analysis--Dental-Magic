@@ -24,7 +24,7 @@
 
 1. There were very few managers that gave more low performance scores when compared to all members of management, but further research will be needed to verify if these scores are really justifiable. 
 
-<br>
+
 ### *Modules and Data Source Setup*
 
 
