@@ -1,0 +1,106 @@
+FiscalYear,Quarter,Department,ProcessStartDate,RecruitmentDate,Position,EmployeeSource,TotalDaysForRecruitmentCompletion,PositionTypeGoal,SuccessfulRecruitment
+2014,Q3,IT - Information Systems,11/2/2013,1/5/2014,IT Manager - Support,Professional Society,64,45,0
+2014,Q3,Production       ,12/5/2013,1/6/2014,Production Technician I,On-campus Recruiting,32,45,1
+2014,Q3,Admin Offices,10/25/2013,1/6/2014,Accountant I,Website Banner Ads,73,45,0
+2014,Q3,Production       ,11/5/2013,1/6/2014,Production Technician I,Newspager/Magazine,62,45,0
+2014,Q3,Production       ,12/16/2013,1/6/2014,Production Technician I,Employee Referral,21,45,1
+2014,Q3,Production       ,10/30/2013,1/6/2014,Production Technician I,Website Banner Ads,68,45,0
+2014,Q3,Production       ,1/10/2014,2/17/2014,Production Technician I,Word of Mouth,38,45,0
+2014,Q3,Production       ,12/10/2013,2/17/2014,Production Technician II,Newspager/Magazine,69,45,0
+2014,Q3,IT - Information Systems,1/10/2014,2/17/2014,Sr. DBA,Vendor Referral,38,45,0
+2014,Q3,Production       ,1/10/2014,2/17/2014,Production Technician I,On-campus Recruiting,38,45,1
+2014,Q3,Production       ,12/10/2013,2/17/2014,Production Technician I,MBTA ads,69,45,0
+2014,Q3,Production       ,1/10/2014,2/17/2014,Production Technician I,On-campus Recruiting,38,45,1
+2014,Q3,Production       ,1/10/2014,2/17/2014,Production Technician I,Professional Society,38,45,0
+2014,Q3,Production       ,1/25/2014,3/31/2014,Production Technician I,MBTA ads,65,45,0
+2014,Q3,Production       ,2/18/2014,3/31/2014,Production Technician I,Employee Referral,41,45,1
+2014,Q3,Production       ,1/10/2014,3/31/2014,Production Technician I,Professional Society,80,45,0
+2014,Q4,Sales,3/12/2014,5/5/2014,Sales Manager,Pay Per Click - Google,54,45,0
+2014,Q4,Sales,2/15/2014,5/5/2014,Director of Sales,MBTA ads,79,45,0
+2014,Q4,Production       ,2/19/2014,5/12/2014,Production Technician I,Internet Search,82,45,0
+2014,Q4,Production       ,2/27/2014,5/12/2014,Production Technician I,Pay Per Click - Google,74,45,0
+2014,Q4,Sales,2/2/2014,5/12/2014,Area Sales Manager,Monster.com,99,45,0
+2014,Q4,Production       ,2/26/2014,5/12/2014,Production Technician II,Professional Society,75,45,0
+2014,Q4,Production       ,2/12/2014,5/12/2014,Production Technician I,Monster.com,89,45,0
+2014,Q4,Production       ,4/8/2014,5/12/2014,Production Technician I,On-campus Recruiting,34,45,1
+2014,Q4,Sales,2/10/2014,5/12/2014,Area Sales Manager,Website Banner Ads,91,45,0
+2014,Q4,Sales,4/16/2014,5/18/2014,Sales Manager,Diversity Job Fair,32,45,1
+2015,Q1,IT - Information Systems,5/3/2014,7/7/2014,Database Administrator,Search Engine - Google Bing Yahoo,65,45,0
+2015,Q1,Production       ,5/8/2014,7/7/2014,Production Technician I,Professional Society,60,45,0
+2015,Q1,Production       ,5/8/2014,7/7/2014,Production Technician I,Professional Society,60,45,0
+2015,Q1,Production       ,5/4/2014,7/7/2014,Production Technician II,Pay Per Click - Google,64,45,0
+2015,Q1,Production       ,5/8/2014,7/7/2014,Production Technician II,Professional Society,60,45,0
+2015,Q1,Sales,4/18/2014,7/7/2014,Area Sales Manager,Monster.com,80,45,0
+2015,Q1,Production       ,5/8/2014,7/7/2014,Production Technician II,Professional Society,60,45,0
+2015,Q1,Software Engineering,4/30/2014,7/7/2014,Software Engineer,MBTA ads,68,45,0
+2015,Q1,Production       ,4/26/2014,7/7/2014,Production Technician II,Vendor Referral,72,45,0
+2015,Q1,Sales,5/25/2014,8/18/2014,Area Sales Manager,Billboard,85,45,0
+2015,Q1,Sales,5/24/2014,8/18/2014,Area Sales Manager,Pay Per Click - Google,86,45,0
+2015,Q1,Production       ,7/12/2014,8/18/2014,Production Technician II,Employee Referral,37,45,1
+2015,Q1,Production       ,6/25/2014,9/18/2014,Production Manager,Search Engine - Google Bing Yahoo,85,45,0
+2015,Q1,Production       ,6/30/2014,9/29/2014,Production Technician II,Word of Mouth,91,45,0
+2015,Q1,Sales,8/18/2014,9/29/2014,Area Sales Manager,Employee Referral,42,45,1
+2015,Q1,Production       ,7/25/2014,9/29/2014,Production Technician I,Search Engine - Google Bing Yahoo,66,45,0
+2015,Q1,Production       ,6/25/2014,9/29/2014,Production Technician I,Professional Society,96,45,0
+2015,Q1,Sales,7/12/2014,9/29/2014,Area Sales Manager,Internet Search,79,45,0
+2015,Q1,Production       ,8/23/2014,9/29/2014,Production Technician I,On-campus Recruiting,37,45,1
+2015,Q1,Production       ,7/21/2014,9/29/2014,Production Technician II,Pay Per Click - Google,70,45,0
+2015,Q1,Admin Offices,6/27/2014,9/29/2014,Accountant I,Internet Search,94,45,0
+2015,Q1,Sales,6/15/2014,9/29/2014,Area Sales Manager,Monster.com,106,45,0
+2015,Q1,Production       ,7/12/2014,9/29/2014,Production Technician II,Newspager/Magazine,79,45,0
+2015,Q1,Production       ,8/23/2014,9/29/2014,Production Technician I,On-campus Recruiting,37,45,1
+2015,Q1,IT - Information Systems,7/22/2014,9/30/2014,Network Engineer,Vendor Referral,70,45,0
+2015,Q2,IT - Information Systems,9/13/2014,11/10/2014,Sr. Network Engineer,Vendor Referral,58,45,0
+2015,Q2,IT - Information Systems,10/12/2014,11/10/2014,Sr. Network Engineer,Employee Referral,29,45,1
+2015,Q2,IT - Information Systems,10/30/2014,12/1/2014,Database Administrator,Employee Referral,32,45,1
+2015,Q3,IT - Information Systems,10/21/2014,1/5/2015,Database Administrator,Glassdoor,76,45,0
+2015,Q3,IT - Information Systems,11/2/2014,1/5/2015,Sr. DBA,Vendor Referral,64,45,0
+2015,Q3,IT - Information Systems,11/4/2014,1/5/2015,Database Administrator,Vendor Referral,62,45,0
+2015,Q3,IT - Information Systems,10/26/2014,1/5/2015,Network Engineer,Monster.com,71,45,0
+2015,Q3,Admin Offices,1/19/2015,2/16/2015,Sr. Accountant,Diversity Job Fair,28,45,1
+2015,Q3,Sales,12/5/2014,2/16/2015,Area Sales Manager,Pay Per Click - Google,73,45,0
+2015,Q3,IT - Information Systems,12/10/2014,2/16/2015,Database Administrator,Glassdoor,68,45,0
+2015,Q3,IT - Information Systems,1/10/2015,2/16/2015,Database Administrator,Employee Referral,37,45,1
+2015,Q3,Admin Offices,12/5/2014,2/16/2015,Administrative Assistant,Pay Per Click - Google,73,45,0
+2015,Q3,Production       ,12/5/2014,2/16/2015,Production Technician I,Website Banner Ads,73,45,0
+2015,Q3,IT - Information Systems,12/13/2014,2/16/2015,Network Engineer,Monster.com,65,45,0
+2015,Q3,IT - Information Systems,1/10/2015,2/16/2015,Database Administrator,Employee Referral,37,45,1
+2015,Q3,IT - Information Systems,2/26/2015,3/30/2015,Sr. DBA,Company Intranet - Partner,32,45,1
+2015,Q3,IT - Information Systems,2/18/2015,3/30/2015,Network Engineer,Information Session,40,45,1
+2015,Q3,Production       ,2/16/2015,3/30/2015,Production Technician I,Employee Referral,42,45,1
+2015,Q3,Production       ,1/14/2015,3/30/2015,Production Technician I,Professional Society,75,45,0
+2015,Q3,IT - Information Systems,1/9/2015,3/30/2015,Database Administrator,Glassdoor,80,45,0
+2015,Q3,Production       ,1/15/2015,3/30/2015,Production Technician II,Newspager/Magazine,74,45,0
+2015,Q3,Production       ,1/15/2015,3/30/2015,Production Technician I,Monster.com,74,45,0
+2015,Q3,IT - Information Systems,2/8/2015,3/30/2015,Network Engineer,Vendor Referral,50,45,0
+2015,Q3,IT - Information Systems,1/19/2015,3/30/2015,Database Administrator,Pay Per Click - Google,70,45,0
+2015,Q3,IT - Information Systems,2/18/2015,3/30/2015,Network Engineer,Employee Referral,40,45,1
+2015,Q3,IT - Information Systems,2/27/2015,3/30/2015,Sr. Network Engineer,Employee Referral,31,45,1
+2015,Q3,IT - Information Systems,2/25/2015,3/30/2015,Database Administrator,Employee Referral,33,45,1
+2015,Q4,Admin Offices,3/10/2015,5/1/2015,Administrative Assistant,Website Banner Ads,52,45,0
+2015,Q4,Production       ,3/16/2015,5/11/2015,Production Technician I,Professional Society,56,45,0
+2015,Q4,Production       ,4/30/2015,6/2/2015,Production Manager,Employee Referral,33,45,1
+2016,Q3,Admin Offices,10/30/2015,1/5/2016,Shared Services Manager,Monster.com,67,45,0
+2016,Q3,Production       ,11/5/2015,1/28/2016,Production Manager,Pay Per Click - Google,84,45,0
+2017,Q1,IT - Information Systems,7/15/2016,9/6/2016,BI Director,Professional Society,53,45,0
+2017,Q2,IT - Information Systems,7/30/2016,10/2/2016,Senior BI Developer,Indeed,64,45,0
+2017,Q2,IT - Information Systems,7/16/2016,10/2/2016,BI Developer,Indeed,78,45,0
+2017,Q3,IT - Information Systems,10/30/2016,1/7/2017,Data Architect,Indeed,69,45,0
+2017,Q3,IT - Information Systems,12/16/2016,2/10/2017,Senior BI Developer,Indeed,56,45,0
+2017,Q3,IT - Information Systems,12/5/2016,2/15/2017,BI Developer,Indeed,72,45,0
+2017,Q3,IT - Information Systems,12/15/2016,2/15/2017,Senior BI Developer,Indeed,62,45,0
+2017,Q4,IT - Information Systems,2/7/2017,4/20/2017,BI Developer,Indeed,72,45,0
+2017,Q4,IT - Information Systems,2/7/2017,4/20/2017,BI Developer,Indeed,72,45,0
+2018,Q3,IT - Information Systems,10/25/2017,1/8/2018,Network Engineer,Glassdoor,75,45,0
+2018,Q3,Production       ,10/30/2017,1/8/2018,Production Technician I,Billboard,70,45,0
+2018,Q3,IT - Information Systems,12/5/2017,1/8/2018,Network Engineer,Employee Referral,34,45,1
+2018,Q3,IT - Information Systems,12/5/2017,1/8/2018,Network Engineer,Employee Referral,34,45,1
+2018,Q3,Sales,11/5/2017,1/8/2018,Area Sales Manager,Website Banner Ads,64,45,0
+2018,Q3,IT - Information Systems,12/5/2017,1/8/2018,Database Administrator,Employee Referral,34,45,1
+2018,Q3,Production       ,11/5/2017,1/8/2018,Production Technician I,Word of Mouth,64,45,0
+2018,Q3,Software Engineering,12/10/2017,2/5/2018,Software Engineer,Vendor Referral,57,45,0
+2018,Q3,Production       ,12/12/2017,2/5/2018,Production Technician I,MBTA ads,55,45,0
+2018,Q3,IT - Information Systems,1/18/2018,2/5/2018,Database Administrator,Diversity Job Fair,18,45,1
+2018,Q3,Production       ,12/2/2017,2/5/2018,Production Technician II,Glassdoor,65,45,0
+2018,Q3,IT - Information Systems,1/15/2018,2/5/2018,Database Administrator,Employee Referral,21,45,1
+2018,Q3,IT - Information Systems,1/15/2018,2/5/2018,Sr. Network Engineer,Employee Referral,21,45,1
